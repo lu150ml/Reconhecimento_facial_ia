@@ -84,8 +84,8 @@ Essa opção pode ser útil se o dataset crescer bastante, mas requer mais dados
 
 ## 👩‍🏫 Créditos
 
-Projeto desenvolvido durante as aulas de IA/Visão Computacional, adaptado a partir do notebook `"[ Aula 17 ] - CKP04.ipynb"`. Sinta-se à vontade para reutilizar, adaptar e compartilhar com a turma!
+Projeto desenvolvido durante as aulas de IA/Visão Computacional, adaptado a partir do notebook `"[ Aula 17 ] - CKP04.ipynb"`. Sinta-se à vontade para reutilizar, adaptar !
 
 ---
 
-💬 **Dúvidas?** Abra uma *issue* ou envie o stacktrace do erro para que possamos ajudar.
+
